@@ -1,0 +1,12 @@
+{
+    "productosNotebook":[
+        {"id":27, "nombre":"HP 14 RYZEN 3 5300U 8GB 256 SSD 14 HD LED", "imagen":"multimedia/imagenes/hp-ryzen3.jpg", "precio":450,"stock":5},
+{"id":28, "nombre":"HP I7 1165G7 8GB 256 SSD 15.6", "imagen":"multimedia/imagenes/hp1165g7.png", "precio":700,"stock":5},
+{"id":29, "nombre":"HP PAVILION 360° 2 EN 1 I5 1135G7 8GB 256 SSD 14 FHD TOUCH", "imagen":"multimedia/imagenes/hppavilion360.jpg", "precio":650,"stock":5},
+{"id":30, "nombre":"ASUS ROG ZEPHYRUS I9 11900H 16GB 1TB SSD", "imagen":"multimedia/imagenes/asus-gameri9.png", "precio":1100,"stock":5},
+{"id":31, "nombre":"ASUS VIVOBOOK 14 I5 10210U 8GB 512 SSD 14", "imagen":"multimedia/imagenes/asus-vivabook.jpg", "precio":700,"stock":5},
+{"id":32, "nombre":"MACBOOK AIR M1 13” MGN93E/A-SILVER 8GB-256GB- TECLADO EN ESPAÑOL", "imagen":"multimedia/imagenes/notebook-apple-m1-3.jpg", "precio":920,"stock":5},
+{"id":33, "nombre":"MACBOOK AIR M1 13” MGND3E/A-GOLD 8GB-256GB-TECLADO EN ESPAÑOL", "imagen":"multimedia/imagenes/notebook-apple-m1-2.jpg", "precio":920,"stock":5},
+{"id":34, "nombre":"MACBOOK AIR M1 13” MGN63LL/A SPACE GRAY 8GB-256GB-TECLADO EN INGLES", "imagen":"multimedia/imagenes/notebook-apple-m1-1.jpg", "precio":920,"stock":5}
+    ]
+}
